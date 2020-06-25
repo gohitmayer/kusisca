@@ -1,0 +1,52 @@
+
+body{
+    margin: 0;
+}
+
+
+.contenedor img{
+
+    margin: auto;
+    display:block;
+    width: 100%;
+    height: 100%;
+    position: ;
+    
+    
+}
+.emot{
+    
+    margin: auto;
+    display:block;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+}
+.mama img{
+
+    margin: auto;
+    display:block;
+    width: 70%;
+    height: 70%;
+    position:f ;
+    
+    
+}
+.letras img{
+
+    margin: auto;
+    display:block;
+    width: 75%;
+    height: 50%;
+    position: ;
+}
+.bob1 {
+    
+    color: white;
+}
+.bab {
+    color: white;
+}
+.vop {
+    color: white;
+}
